@@ -42,15 +42,10 @@ Python工具箱大全
 ## 数据分析
 
 - [pandas](https://github.com/pandas-dev/pandas) 必须Python数据分析库，读取文件、预处理数据、分析、存储
-
 - [streamlit](https://github.com/streamlit/streamlit) 快速搭建本地数据分析类Web应用
-
 - [modin](https://github.com/modin-project/modin) pandas加速库，接口语法与pandas高度一致
-
 - [dask](https://github.com/dask/dask)  pandas加速库，接口语法与pandas高度一致
-
 - [plydata](https://github.com/has2k1/plydata])  pandas管道语法库
-
 - [networkx](https://github.com/networkx/networkx) 社交网络分析库
 
     
@@ -73,23 +68,14 @@ Python工具箱大全
 ## 可视化
 
 - [streamlit](https://github.com/streamlit/streamlit) 快速搭建本地数据分析类Web应用
-
 - [matplotlib](https://github.com/matplotlib/matplotlib)  Python中最万能绘图库，很少有ta画不出来的图；但语法较难、静态图
-
 - [seaborn](https://github.com/mwaskom/seaborn) 基于matplotlib开发的简化版可视化库， 一般的图可以用ta绘制； 高度定制仍需要结合matplotlib进行样式定制；静态图
-
 - [plotnine](https://github.com/has2k1/plotnine)  ggplot2语法的Python可视化库， 可与[plydata](https://github.com/has2k1/plydata]) 库结合使用
-
 - [pyecharts](https://github.com/pyecharts/pyecharts) 国人开发并封装的动态可视化图绘制库; 中文文档
-
 - [plotly](https://github.com/plotly/plotly.py) 动态可视化图绘制库
-
 - [bokeh](https://github.com/bokeh/bokeh) 动态可视化图绘制库
-
 - [SciencePlots](https://github.com/garrettj403/SciencePlots)  科研论文绘图，基于matplotlib
-
 - [datapane](https://github.com/datapane/datapane)  数据分析报告生成
-
 - [superset](https://github.com/apache/superset) 开源商务智能分析可视化库
 
 <br> 
@@ -101,23 +87,14 @@ Python工具箱大全
 - [nltk](https://github.com/nltk/nltk) 自然语言分析套件，对中文不友好
 
 - [spacy](https://github.com/explosion/spaCy) 工业级自然语言模型库，支持中文
-
 - [pattern](https://github.com/clips/pattern) 自然语言处理、网络分析、可视化库
-
 - [jieba](https://github.com/fxsjy/jieba)  中文文本分词库
-
 - [snownlp](https://github.com/isnowfy/snownlp) 中文情感分析库
-
 - [gensim](https://github.com/RaRe-Technologies/gensim)  最好用、最全的话题模型
-
 - [cnsenti](https://github.com/thunderhit/cnsenti) 中文情感分析库(Chinese Sentiment))可对文本进行**情绪分析**、**情感分析**。
-
 - [label-studio](https://github.com/heartexlabs/label-studio)  最牛掰的文本数据标注工具
-
 - [doccano](https://github.com/doccano/doccano) 文本数据标注工具
-
 - [textstat](https://github.com/shivam5992/textstat)  文本可读性计算包(算法全，但仅支持英文)
-
 - [texthero](https://github.com/jbesomi/texthero) 文本预处理、展示、可视化库，仅支持英文
 
       
@@ -130,9 +107,7 @@ Python工具箱大全
 ## GUI窗体软件开发
 
 - [tkinter](https://wiki.python.org/moin/TkInter) Python内置的gui库
-
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) 最简单的gui开发库
-
 - [pyqt5、pyside](https://doc.qt.io/qt.html#qtforpython) 最牛掰的gui软件开发库
 
  <br>
@@ -142,19 +117,12 @@ Python工具箱大全
 ## 自动化办公
 
 - [zmail](https://github.com/zhangyunhao116/zmail) 自动化收发邮件管理库
-
 - [pywinauto](https://github.com/pywinauto/pywinauto) Windows电脑自动化Python库
-
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint)  自动化生产pdf报告
-
 - [selenium](https://github.com/SeleniumHQ/selenium/) 浏览器自动化框架，可以自动化点击浏览器，完成某些工作
-
 - [mkdocx](https://github.com/mkdocs/mkdocs/) 
-
 - [python-docx](https://github.com/python-openxml/python-docx)  创建、修改docx文件库
-
 - [python-ppt](https://github.com/scanny/python-pptx)  创建、修改ppt文件库
-
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/) xlsx文件库
 
 <br>
@@ -179,9 +147,7 @@ Python工具箱大全
 # 更多
 
 - [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)
-
 - 公众号：大邓和他的python
-
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
 
     
