@@ -27,6 +27,7 @@ Python工具箱大全
 - [shreport](https://github.com/thunderhit/shreport) 上海证券交易所上市公司定期报告下载
 - [newspaper](https://github.com/codelucas/newspaper) 新闻爬虫库，根据提供的url可以抽取出新闻标题、作者、关键词、总结，部分功能支持中文
 
+<br>
 
 
 ## 数据库
@@ -35,6 +36,7 @@ Python工具箱大全
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html)  轻量级sql数据库(python内置库)
 - [pymongo](https://github.com/mongodb/mongo-python-driver) 非关系型MongoDB库
 
+<br>
 
 
 ## 数据分析
@@ -52,6 +54,8 @@ Python工具箱大全
 - [networkx](https://github.com/networkx/networkx) 社交网络分析库
 
     
+<br>
+
 
       
 
@@ -88,7 +92,9 @@ Python工具箱大全
 
 - [superset](https://github.com/apache/superset) 开源商务智能分析可视化库
 
-      
+<br> 
+
+
 
 ## 文本分析
 
@@ -115,6 +121,9 @@ Python工具箱大全
 - [texthero](https://github.com/jbesomi/texthero) 文本预处理、展示、可视化库，仅支持英文
 
       
+<br>
+
+
 
 
 
@@ -126,7 +135,7 @@ Python工具箱大全
 
 - [pyqt5、pyside](https://doc.qt.io/qt.html#qtforpython) 最牛掰的gui软件开发库
 
-      
+ <br>
 
 
 
