@@ -18,6 +18,7 @@ Python工具箱大全
 ## 网络爬虫
 
 - [requests](https://github.com/psf/requests)  最好用、最简单的网络爬虫访问库
+- [celery](https://github.com/celery/celery/) 可以用于制作爬虫访问队列
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 最简单的网页解析库
 - [pyquery](https://github.com/gawel/pyquery)  最简洁网页解析库
 - [scrapy](https://github.com/scrapy/scrapy) 最流行的爬虫框架
@@ -29,13 +30,19 @@ Python工具箱大全
 
 <br>
 
+# Web
+
+- [flask](https://github.com/pallets/flask) 可以开发网站、分享rest-api接口
+
+<br>
 
 ## 数据库
 
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL)  
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html)  轻量级sql数据库(python内置库)
 - [pymongo](https://github.com/mongodb/mongo-python-driver) 非关系型MongoDB库
-
+- [redis](https://github.com/redis/redis)  Redis数据库
+- 
 <br>
 
 
