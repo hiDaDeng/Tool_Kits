@@ -33,8 +33,7 @@ Python工具箱大全
 # Web
 
 - [flask](https://github.com/pallets/flask) 可以开发网站、分享rest-api接口
-- [streamlit](https://github.com/streamlit/streamlit)
-- [PyWebIO](https://github.com/wang0618/PyWebIO)对Python小白最友好的的web库
+- [streamlit](https://github.com/streamlit/streamlit)、[PyWebIO](https://github.com/wang0618/PyWebIO)对Python小白最友好的的web库
 
 
 <br>
