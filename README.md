@@ -18,6 +18,7 @@ Python工具箱大全
 ## 网络爬虫
 
 - [requests](https://github.com/psf/requests)  最好用、最简单的网络爬虫访问库
+- [weibo_crawler](https://github.com/thunderhit/weibo_crawler) 最简单的微博爬虫
 - [celery](https://github.com/celery/celery/) 可以用于制作爬虫访问队列
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 最简单的网页解析库
 - [pyquery](https://github.com/gawel/pyquery)  最简洁网页解析库
