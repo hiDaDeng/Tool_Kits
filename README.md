@@ -18,7 +18,7 @@ Python工具箱大全
 ## 网络爬虫
 
 - [requests](https://github.com/psf/requests)  最好用、最简单的网络爬虫访问库
-- [weibo_crawler](https://github.com/thunderhit/weibo_crawler) 最简单的微博爬虫
+- [weibo_crawler](https://github.com/hidadeng/weibo_crawler) 最简单的微博爬虫
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api) 抖音国际站爬虫库
 - [celery](https://github.com/celery/celery/) 可以用于制作爬虫访问队列
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 最简单的网页解析库
@@ -28,7 +28,7 @@ Python工具箱大全
 - [selenium](https://github.com/SeleniumHQ/selenium/) 浏览器自动化测试框架，可以用于爬虫反爬
 - [playwright](https://github.com/microsoft/playwright) 微软开源的浏览器自动化测试框架
 - [scylla](https://github.com/imWildCat/scylla) 智能IP代理池，用于反爬
-- [shreport](https://github.com/thunderhit/shreport) 上海证券交易所上市公司定期报告下载
+- [shreport](https://github.com/hidadeng/shreport) 上海证券交易所上市公司定期报告下载
 - [newspaper](https://github.com/codelucas/newspaper) 新闻爬虫库，根据提供的url可以抽取出新闻标题、作者、关键词、总结，部分功能支持中文
 
 <br>
@@ -104,8 +104,8 @@ Python工具箱大全
 - [jieba](https://github.com/fxsjy/jieba)  中文文本分词库
 - [snownlp](https://github.com/isnowfy/snownlp) 中文情感分析库
 - [gensim](https://github.com/RaRe-Technologies/gensim)  最好用、最全的话题模型
-- [cnsenti](https://github.com/thunderhit/cnsenti) 中文情感分析库(Chinese Sentiment))可对文本进行**情绪分析**、**情感分析**。
-- [multistop](https://github.com/thunderhit/multistop) 多语言文本停用词库
+- [cnsenti](https://github.com/hidadeng/cnsenti) 中文情感分析库(Chinese Sentiment))可对文本进行**情绪分析**、**情感分析**。
+- [multistop](https://github.com/hidadeng/multistop) 多语言文本停用词库
 - [label-studio](https://github.com/heartexlabs/label-studio)  最牛掰的文本数据标注工具
 - [doccano](https://github.com/doccano/doccano) 文本数据标注工具
 - [textstat](https://github.com/shivam5992/textstat)  文本可读性计算包(算法全，但仅支持英文)
@@ -130,6 +130,7 @@ Python工具箱大全
 
 
 ## 自动化办公
+
 
 - [zmail](https://github.com/zhangyunhao116/zmail) 自动化收发邮件管理库
 - [pywinauto](https://github.com/pywinauto/pywinauto) Windows电脑自动化Python库
