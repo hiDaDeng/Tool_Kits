@@ -55,6 +55,8 @@ Python工具箱大全
 ## 数据分析
 
 - [pandas](https://github.com/pandas-dev/pandas) 必须Python数据分析库，读取文件、预处理数据、分析、存储
+- [SciencePlots](https://github.com/garrettj403/SciencePlots)  科学绘图的Python工具包
+- [Orchest](https://github.com/orchest/orchest) 创建数据科学工作量的工具。Orchest是一款Web数据科学工具，可在文件系统上运行
 - [statsmodels](https://github.com/statsmodels/statsmodels) Python的统计计量统计库
 - [linearmodels](https://github.com/bashtage/linearmodels) 添加线性模型，包括statsmodels中缺少的工具变量和面板数据模型。
 - [streamlit](https://github.com/streamlit/streamlit) 快速搭建本地数据分析类Web应用
@@ -124,6 +126,7 @@ Python工具箱大全
 - [tkinter](https://wiki.python.org/moin/TkInter) Python内置的gui库
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) 最简单的gui开发库
 - [pyqt5、pyside](https://doc.qt.io/qt.html#qtforpython) 最牛掰的gui软件开发库
+- [DearPyGui](https://github.com/hoffstadt/DearPyGui)  易于使用且功能强大的Python GUI框架，它提供了DearImGui的包装。
 
  <br>
 
