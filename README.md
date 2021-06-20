@@ -19,6 +19,8 @@ Python工具箱大全
 
 - [requests](https://github.com/psf/requests)  最好用、最简单的网络爬虫访问库
 - [weibo_crawler](https://github.com/hidadeng/weibo_crawler) 最简单的微博爬虫
+- [崔庆才大神发布的测试站点](https://mp.weixin.qq.com/s/qL1uEk4j_ks3uhjINe-xyA) 
+- [gerapy-auto-extractor](https://github.com/Gerapy/GerapyAutoExtractor) 爬虫页面智能解析库
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api) 抖音国际站爬虫库
 - [celery](https://github.com/celery/celery/) 可以用于制作爬虫访问队列
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 最简单的网页解析库
@@ -154,7 +156,7 @@ Python工具箱大全
 - [reveal.js](https://github.com/hakimel/reveal.js) 最流行的幻灯片
 - [slidev](https://github.com/slidevjs/slidev) 编程人员使用的幻灯片
 - [mkdocs](https://github.com/mkdocs/mkdocs) 制作文档网站
-
+- [mockoon](https://github.com/mockoon/cli)  帮我们快速搭建 API 服务图形化界面工具
 
 # 如果
 
