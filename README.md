@@ -17,7 +17,8 @@ Python工具箱大全
 
 ## 网络爬虫
 
-- [requests](https://github.com/psf/requests)  最好用、最简单的网络爬虫访问库
+- [requests](https://github.com/psf/requests)  最好用的网络爬虫访问库
+- [smartscraper](https://github.com/hidadeng/smartscraper)  最简单的网络爬虫访问&解析库
 - [weibo_crawler](https://github.com/hidadeng/weibo_crawler) 最简单的微博爬虫
 - [崔庆才大神发布的测试站点](https://mp.weixin.qq.com/s/qL1uEk4j_ks3uhjINe-xyA) 
 - [gerapy-auto-extractor](https://github.com/Gerapy/GerapyAutoExtractor) 爬虫页面智能解析库
@@ -50,7 +51,7 @@ Python工具箱大全
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html)  轻量级sql数据库(python内置库)
 - [pymongo](https://github.com/mongodb/mongo-python-driver) 非关系型MongoDB库
 - [redis](https://github.com/redis/redis)  Redis数据库
-- 
+- [py2neo](https://github.com/py2neo-org/py2neo)  对接Neo4J数据库的python库
 <br>
 
 
@@ -147,7 +148,7 @@ Python工具箱大全
 - [python-ppt](https://github.com/scanny/python-pptx)  创建、修改ppt文件库
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/) xlsx文件库
 - [PyWebIO](https://github.com/wang0618/PyWebIO)  不需要编写HTML和JS代码，就可以构建简单的基于浏览器的GUI应用。 
-- 
+
 <br>
 
 
