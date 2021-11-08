@@ -118,8 +118,9 @@ Python工具箱大全
 - [textpipe](https://github.com/textpipe/textpipe) 文本分析流水线
 - [textplot](https://github.com/davidmcclure/textplot) 词语网络图
 - [shifterator](https://github.com/ryanjgallagher/shifterator) 通过让您查看单词使用方式的变化，单词移位可以帮助您进行从根本上更可解释的情感，熵和散度分析。量化不同单词对两个文本差异做出的贡献，以及它们如何发挥作用。 
-- [corextopic](https://github.com/gregversteeg/corex_topic) 层次非监督、半监督主题模型
 - [GuidedLDA](https://github.com/vi3k6i5/GuidedLDA) 半监督LDA主题模型
+- [corex_topic](https://github.com/gregversteeg/corex_topic)  层次非监督、半监督话题模型
+- [BERTopic](https://github.com/MaartenGr/BERTopic) BERT话题模型
 <br>
 
 
