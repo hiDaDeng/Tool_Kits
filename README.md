@@ -75,7 +75,7 @@ Python工具箱大全
       
 
 ## 机器学习
-
+- [vowpal wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)  机器学习的前沿库
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) 机器学习必学库，支持有监督、无监督多种算法，含文本分析功能
 - [Orange3](https://github.com/biolab/orange3) 点击操作的机器学习分析**软件**， 可文本分析
 - [doccano](https://github.com/doccano/doccano) 文本数据标注工具
@@ -121,6 +121,8 @@ Python工具箱大全
 - [GuidedLDA](https://github.com/vi3k6i5/GuidedLDA) 半监督LDA主题模型
 - [corex_topic](https://github.com/gregversteeg/corex_topic)  层次非监督、半监督话题模型
 - [BERTopic](https://github.com/MaartenGr/BERTopic) BERT话题模型
+- [whatlies](https://github.com/RasaHQ/whatlies)  词向量可视化
+- [TextDescriptives](https://github.com/HLasse/TextDescriptives) 文本描述性统计,不支持中文
 <br>
 
 
