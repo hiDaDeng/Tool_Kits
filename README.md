@@ -1,5 +1,5 @@
 # Tool_Kits
-Python工具箱大全
+工具箱大全,主要是Python项目。
 
 涵盖：
 
@@ -23,6 +23,7 @@ Python工具箱大全
 - [崔庆才大神发布的测试站点](https://mp.weixin.qq.com/s/qL1uEk4j_ks3uhjINe-xyA) 
 - [gerapy-auto-extractor](https://github.com/Gerapy/GerapyAutoExtractor) 爬虫页面智能解析库
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api) 抖音国际站爬虫库
+- [rpa](https://github.com/tebelorg/RPA-Python) Python自动化操纵包
 - [celery](https://github.com/celery/celery/) 可以用于制作爬虫访问队列
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 最简单的网页解析库
 - [pyquery](https://github.com/gawel/pyquery)  最简洁网页解析库
@@ -67,8 +68,8 @@ Python工具箱大全
 - [dask](https://github.com/dask/dask)  pandas加速库，接口语法与pandas高度一致
 - [plydata](https://github.com/has2k1/plydata])  pandas管道语法库
 - [networkx](https://github.com/networkx/networkx) 社交网络分析库
+- [matplotx](https://github.com/nschloe/matplotx)  Matplotlib扩展库，可以提供更多样式，简化样式设定
 
-    
 <br>
 
 
@@ -109,8 +110,7 @@ Python工具箱大全
 - [jieba](https://github.com/fxsjy/jieba)  中文文本分词库
 - [snownlp](https://github.com/isnowfy/snownlp) 中文情感分析库
 - [gensim](https://github.com/RaRe-Technologies/gensim)  最好用、最全的话题模型
-- [cnsenti](https://github.com/hidadeng/cnsenti) 中文情感分析库(Chinese Sentiment))可对文本进行**情绪分析**、**情感分析**。
-- [multistop](https://github.com/hidadeng/multistop) 多语言文本停用词库
+- [cntext](https://github.com/hidadeng/cntext) 中文文本分析库，含词频统计、情感分析、可视化
 - [label-studio](https://github.com/heartexlabs/label-studio)  最牛掰的文本数据标注工具
 - [doccano](https://github.com/doccano/doccano) 文本数据标注工具
 - [textstat](https://github.com/shivam5992/textstat)  文本可读性计算包(算法全，但仅支持英文)
@@ -123,6 +123,12 @@ Python工具箱大全
 - [BERTopic](https://github.com/MaartenGr/BERTopic) BERT话题模型
 - [whatlies](https://github.com/RasaHQ/whatlies)  词向量可视化
 - [TextDescriptives](https://github.com/HLasse/TextDescriptives) 文本描述性统计,不支持中文
+- [pdfdocx](https://github.com/hidadeng/pdfdocx) pdf、docx读取库
+- [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)    为**扫描的 PDF** 文件添加了 OCR 文本层，允许对其进行搜索
+- [Top2Vec](https://github.com/ddangelov/Top2Vec)  主题建模和语义搜索的算法, 自动检测文本中存在的主题并生成联合嵌入的主题、文档和词向量。 适用于短文本;
+- [TextNet](https://github.com/jboynyc/textnets)  textnet将文档集表示为文档和单词的网络,为文本分析与可视化提供了新的可能性。
+- [taguette](https://github.com/remram44/taguette) 免费开源的定性研究工具
+
 <br>
 
 
@@ -135,6 +141,7 @@ Python工具箱大全
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) 最简单的gui开发库
 - [pyqt5、pyside](https://doc.qt.io/qt.html#qtforpython) 最牛掰的gui软件开发库
 - [DearPyGui](https://github.com/hoffstadt/DearPyGui)  易于使用且功能强大的Python GUI框架，它提供了DearImGui的包装。
+- [PyWebIO](https://github.com/pywebio/PyWebIO)  快速构建 Web 应用的 Python 工具
 
  <br>
 
@@ -163,6 +170,12 @@ Python工具箱大全
 - [slidev](https://github.com/slidevjs/slidev) 编程人员使用的幻灯片
 - [mkdocs](https://github.com/mkdocs/mkdocs) 制作文档网站
 - [mockoon](https://github.com/mockoon/cli)  帮我们快速搭建 API 服务图形化界面工具
+- [codepng](https://www.codepng.app/)  把代码转为美观的截图的website
+- [toad](https://github.com/amphibian-dev/toad) 金融风险评分卡；覆盖了建模全流程，从 EDA、特征工程、特征筛选 到 模型验证和评分卡转化
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Latex项目， 基于 Web 的简历模板，可以生成网页简历，然后用浏览器打印成 PDF 文件。
+
+
+<br>
 
 # 如果
 
