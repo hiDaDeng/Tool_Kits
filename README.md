@@ -68,7 +68,6 @@
 - [dask](https://github.com/dask/dask)  pandas加速库，接口语法与pandas高度一致
 - [plydata](https://github.com/has2k1/plydata])  pandas管道语法库
 - [networkx](https://github.com/networkx/networkx) 社交网络分析库
-- [matplotx](https://github.com/nschloe/matplotx)  Matplotlib扩展库，可以提供更多样式，简化样式设定
 
 <br>
 
@@ -90,6 +89,7 @@
 
 - [streamlit](https://github.com/streamlit/streamlit) 快速搭建本地数据分析类Web应用
 - [matplotlib](https://github.com/matplotlib/matplotlib)  Python中最万能绘图库，很少有ta画不出来的图；但语法较难、静态图
+- [matplotx](https://github.com/nschloe/matplotx)  Matplotlib扩展库，可以提供更多样式，简化样式设定
 - [seaborn](https://github.com/mwaskom/seaborn) 基于matplotlib开发的简化版可视化库， 一般的图可以用ta绘制； 高度定制仍需要结合matplotlib进行样式定制；静态图
 - [plotnine](https://github.com/has2k1/plotnine)  ggplot2语法的Python可视化库， 可与[plydata](https://github.com/has2k1/plydata]) 库结合使用
 - [pyecharts](https://github.com/pyecharts/pyecharts) 国人开发并封装的动态可视化图绘制库; 中文文档
