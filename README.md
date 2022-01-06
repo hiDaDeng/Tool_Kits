@@ -142,7 +142,7 @@
 - [pyqt5、pyside](https://doc.qt.io/qt.html#qtforpython) 最牛掰的gui软件开发库
 - [DearPyGui](https://github.com/hoffstadt/DearPyGui)  易于使用且功能强大的Python GUI框架，它提供了DearImGui的包装。
 - [PyWebIO](https://github.com/pywebio/PyWebIO)  快速构建 Web 应用的 Python 工具
-
+- [kivy](https://github.com/kivy/kivy)  star数高达14k的gui库
  <br>
 
 
