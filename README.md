@@ -53,6 +53,8 @@
 - [pymongo](https://github.com/mongodb/mongo-python-driver) 非关系型MongoDB库
 - [redis](https://github.com/redis/redis)  Redis数据库
 - [py2neo](https://github.com/py2neo-org/py2neo)  对接Neo4J数据库的python库
+- [datasette](https://github.com/simonw/datasette) 探索和发布数据的开源多功能工具，主要面向数据记者、博物馆馆长、档案管理员、地方政府、科学家、研究人员以及任何拥有希望与世界分享数据的人。
+
 <br>
 
 
