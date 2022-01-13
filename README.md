@@ -38,7 +38,7 @@
 <br>
 
 # Web
-
+- [pelican](https://github.com/getpelican/pelican) Python静态网站生成库
 - [flask](https://github.com/pallets/flask) 可以开发网站、分享rest-api接口;流行度top2的web框架
 - [streamlit](https://github.com/streamlit/streamlit)、[PyWebIO](https://github.com/wang0618/PyWebIO)对Python小白最友好的的web库
 - [fastapi](https://github.com/tiangolo/fastapi)  web框架，高性能，易于学习，快速编写代码；
