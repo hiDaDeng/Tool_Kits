@@ -175,7 +175,8 @@
 - [codepng](https://www.codepng.app/)  把代码转为美观的截图的website
 - [toad](https://github.com/amphibian-dev/toad) 金融风险评分卡；覆盖了建模全流程，从 EDA、特征工程、特征筛选 到 模型验证和评分卡转化
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) Latex项目， 基于 Web 的简历模板，可以生成网页简历，然后用浏览器打印成 PDF 文件。
-
+- [pychorus](https://github.com/vivjay30/pychorus) 将音频文件中的高潮部分剪辑出来的python包
+- [imageio](https://github.com/imageio/imageio)  用于读取和写入图像数据的 Python 库； 
 
 <br>
 
