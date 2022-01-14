@@ -108,6 +108,8 @@
 ## 文本分析
 
 - [nltk](https://github.com/nltk/nltk) 自然语言分析套件，对中文不友好
+- [skift](https://github.com/shaypal5/skift)  使用scikit-learn语法封装了fastText功能的包。
+- [kwx](https://github.com/andrewtavis/kwx)  Python 中基于 BERT、LDA 和 TFIDF 的关键字提取
 - [spacy](https://github.com/explosion/spaCy) 工业级自然语言模型库，支持中文
 - [jieba](https://github.com/fxsjy/jieba)  中文文本分词库
 - [snownlp](https://github.com/isnowfy/snownlp) 中文情感分析库
